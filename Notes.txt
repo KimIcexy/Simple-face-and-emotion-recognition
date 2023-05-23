@@ -1,4 +1,0 @@
-james jisoo jennie rose lisa: 01234
-thời điểm,angry,fear,sad,neutrol,happy,surprised
-1,0,
-thời điểm ko có bounding box được phát hiện sẽ ko được lưu vào
