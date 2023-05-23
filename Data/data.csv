@@ -9,7 +9,7 @@ FRAME,ANGRY,FEAR,SAD,NEUTRAL,HAPPY,SURPRISED
 42,,,,,b,eb
 43,,,,,b,c
 44,,,,,b,b
-45,,,,,b,bd
+45,,,,,b,db
 46,,,,,bb,
 47,,,,,bb,
 48,,,b,,ec,
@@ -20,7 +20,7 @@ FRAME,ANGRY,FEAR,SAD,NEUTRAL,HAPPY,SURPRISED
 53,,,d,,ebc,
 54,,,d,,ebc,
 55,,,,,ebb,d
-56,,,,,beb,d
+56,,,,,ebb,d
 57,,,,,ebb,d
 58,,,,,ebdc,
 59,,,,,ebdc,
@@ -29,7 +29,7 @@ FRAME,ANGRY,FEAR,SAD,NEUTRAL,HAPPY,SURPRISED
 62,,,,,ebc,d
 63,,,,,ebc,d
 64,,,,,ebdc,
-65,,,cd,,be,
+65,,,dc,,eb,
 66,,,c,,bed,
 67,,,c,,be,d
 68,,,dc,,b,e
@@ -37,7 +37,7 @@ FRAME,ANGRY,FEAR,SAD,NEUTRAL,HAPPY,SURPRISED
 70,e,,bdc,,,
 71,,,bdce,,,
 72,,,bdce,,,
-73,,,bdce,,,
+73,,,bedc,,,
 74,e,,bc,,,d
 75,e,,bc,d,,
 76,,,bdc,,e,
@@ -45,7 +45,7 @@ FRAME,ANGRY,FEAR,SAD,NEUTRAL,HAPPY,SURPRISED
 78,,,bc,,e,
 79,,,bc,,e,d
 80,,,bc,,e,d
-81,,,bdce,,,
+81,,,bdec,,,
 82,,,bdce,,,
 83,,,bc,,e,d
 84,,,bc,,e,d
@@ -72,3 +72,6 @@ FRAME,ANGRY,FEAR,SAD,NEUTRAL,HAPPY,SURPRISED
 105,,,bc,,e,d
 106,,,bc,,e,d
 107,,,bc,,e,d
+108,,,bc,d,e,
+109,,,dbc,,e,
+110,,,bc,d,e,
