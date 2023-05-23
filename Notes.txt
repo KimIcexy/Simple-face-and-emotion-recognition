@@ -1,7 +1,4 @@
-- Check unknown face
-- thử nghiệm lại trên bộ param mới
-params = {"C": [0.001, 0.01, 0.1, 1.0, 10.0, 100.0, 1000.0], "gamma": [1e-1, 1e-2, 1e-3, 1e-4, 1e-5]}
-- Đếm
-- Nam nữ ??
-- Đường cong cảm xúc
-- Deep Learning
+james jisoo jennie rose lisa: 01234
+thời điểm,angry,fear,sad,neutrol,happy,surprised
+1,0,
+thời điểm ko có bounding box được phát hiện sẽ ko được lưu vào
